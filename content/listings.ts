@@ -44,8 +44,8 @@ export interface Listing {
 
 export const listings: Listing[] = [
   {
-    slug: "it-strategy-consulting",
-    title: "IT Strategy Consulting",
+    slug: "medical-exam-consulting",
+    title: "Medical Exam Consulting",
     category: "CONSULTING",
     description:
       "Work with our consultants to map your technology roadmap, assess risk, " +
