@@ -51,7 +51,7 @@ export const listings: Listing[] = [
       "Asses your physical health with us. " +
       "Book now!",
     inquiry_type: "INQUIRE",
-    image_url: "/images/placeholder-consulting.svg",
+    image_url: "/images/physical.jpg",
   },
   {
     slug: "mental-health-consulting",
@@ -61,7 +61,7 @@ export const listings: Listing[] = [
       "Support your mental health journey with our expert consultants. " +
       "Book a session today.",
     inquiry_type: "QUOTE",
-    image_url: "/images/placeholder-web-dev.svg",
+    image_url: "/images/mental.jpg",
   },
   {
     slug: "emotional-wellness-consulting",
@@ -71,6 +71,6 @@ export const listings: Listing[] = [
       "Work with our consultants to improve your emotional well-being and develop healthy coping strategies. " +
       "Book a session today.",
     inquiry_type: "DEMO",
-    image_url: "/images/placeholder-custom-software.svg",
+    image_url: "/images/emotional.jpg",
   },
 ];
