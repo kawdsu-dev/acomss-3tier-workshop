@@ -40,14 +40,14 @@ export interface SiteContent {
 }
 
 export const site: SiteContent = {
-  name: "Acme Consulting",
-  headline: "Software and consulting that fits your business",
-  tagline: "Web development, custom software, and expert IT consulting.",
+  name: "AoayQT Consulting",
+  headline: "We help people assess their health and well-being with expert consulting.",
+  tagline: "Your health, our priority.",
   intro:
-    "We help teams ship the right software. Browse our catalog to see what we " +
-    "offer, then send us a demo request, a quote request, or a general inquiry. " +
-    "No account needed to get in touch.",
+    "No need to sign up or create an account. " +
+    "Just send us a consulting request, a quote request, or a general inquiry. " +
+    "We'll get back to you as soon as possible.",
   catalogCtaLabel: "Browse the catalog",
-  heroImage: "/images/home-hero.jpg",
-  heroImageAlt: "A team working together at a desk with laptops and notes",
+  heroImage: "/images/doctor.jpg",
+  heroImageAlt: "A team working together in a modern office space, with a focus on health and well-being.",
 };
