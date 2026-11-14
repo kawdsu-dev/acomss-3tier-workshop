@@ -60,7 +60,7 @@ export const listings: Listing[] = [
     description:
       "Support your mental health journey with our expert consultants. " +
       "Book a session today.",
-    inquiry_type: "CONSULTING",
+    inquiry_type: "QUOTE",
     image_url: "/images/placeholder-web-dev.svg",
   },
   {
