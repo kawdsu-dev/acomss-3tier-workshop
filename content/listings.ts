@@ -48,7 +48,7 @@ export const listings: Listing[] = [
     title: "Physical Exam Consulting",
     category: "CONSULTING",
     description:
-      "Asses your physical health with us. " +
+      "Assess your physical health with us. " +
       "Book now!",
     inquiry_type: "INQUIRE",
     image_url: "/images/physical.jpg",
