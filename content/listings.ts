@@ -68,8 +68,7 @@ export const listings: Listing[] = [
     title: "Emotional Wellness Consulting",
     category: "CONSULTING",
     description:
-      "Work with our consultants to improve your emotional well-being and develop healthy coping strategies. " +
-      "Book a session today!",
+      "Work with our consultants to improve your emotional well-being and develop healthy coping strategies. ",
     inquiry_type: "DEMO",
     image_url: "/images/emotional.jpg",
   },
